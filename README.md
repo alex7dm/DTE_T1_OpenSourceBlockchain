@@ -1,1 +1,2 @@
-# DTE_T1_OpenSourceBlockchain
+TG1
+TG1 del grupo T1
